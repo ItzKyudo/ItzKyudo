@@ -52,11 +52,12 @@
 - 🌐 [j12network.online](https://j12network.online)
 
 ### 💻 Desktop Applications
-- 🧮 Infix to PostFix Converter  
-- 📊 Prime Project Planner
+- 🧮 [Infix to PostFix Converter](https://itzkyudo.itch.io/infix-to-postfix-converter)
+- 📊 [Prime Project Planner](https://itzkyudo.itch.io/prime-project)
 
 ### 📱 Mobile Applications
-- 📡 Bluetooth Controller for PoolBotomatic
+- 📡 [Bluetooth Controller for PoolBotomatic](https://itzkyudo.itch.io/pool-bot-controller)
+- [Zynema Movies/TV Shows stream](https://itzkyudo.itch.io/zynema) 
 
 ### 🎓 College Projects
 - 🗑️ **Intellibin** – Smart trash bin with real-time level display + SMS notifications  
