@@ -9,23 +9,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" height="50"/> <img src="https://skillicons.dev/icons?i=express" height="50"/> <img src="https://skillicons.dev/icons?i=ts" height="50"/> <img src="https://skillicons.dev/icons?i=js" height="50"/> <img src="https://skillicons.dev/icons?i=jquery" height="50"/> <img src="https://skillicons.dev/icons?i=php" height="50"/> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> <img src="https://skillicons.dev/icons?i=cpp" height="50"/> <img src="https://skillicons.dev/icons?i=java" height="50"/> <img src="https://skillicons.dev/icons?i=html" height="50"/> <img src="https://skillicons.dev/icons?i=css" height="50"/> <img src="https://skillicons.dev/icons?i=tailwind" height="50"/> <img src="https://skillicons.dev/icons?i=github" height="50"/> <img src="https://skillicons.dev/icons?i=apache" height="50"/> </p>
 
 ---
 
