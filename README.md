@@ -43,29 +43,23 @@
 
 ## 👨‍🎓 About Me
 
-🎓 3rd Year **Computer Engineering Student** at **Western Mindanao State University**  
-💡 Exploring Full Stack Development in **Web**, **Desktop**, and **Mobile** environments  
-🔧 Passionate about building smart tech solutions with clean, scalable code
+3rd Year Computer Engineering Student at Western Mindanao State University Exploring Full Stack Development in Web, Desktop, and Mobile environments. Passionate about building embedded systems and robotics with raspberrypi and arduino.
 
 ---
 
-## 💼 Projects
+## 💼 Full Stack Projects
 
 ### 🌐 Websites
-- 🌍 [quicktoolz.ovh](https://quicktoolz.ovh)
-- 🌐 [j12network.online](https://j12network.online)
+- [quicktoolz.ovh](https://quicktoolz.ovh)
+- [j12network.online](https://j12network.online)
+- scheduling.ovh
 
 ### 💻 Desktop Applications
-- 🧮 [Infix to PostFix Converter](https://itzkyudo.itch.io/infix-to-postfix-converter)
 - 📊 [Prime Project Planner](https://itzkyudo.itch.io/prime-project)
+- Truck Barrowing System
 
 ### 📱 Mobile Applications
-- 📡 [Bluetooth Controller for PoolBotomatic](https://itzkyudo.itch.io/pool-bot-controller)
 - [Zynema Movies/TV Shows stream](https://itzkyudo.itch.io/zynema) 
-
-### 🎓 College Projects
-- 🗑️ **Intellibin** – Smart trash bin with real-time level display + SMS notifications  
-- 🧼 **PoolBotomatic** – Arduino-based floating debris collector for swimming pool maintenance  
 
 ---
 
