@@ -9,7 +9,27 @@
 
 ## 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=react,raspberrypi,nodejs,express,ts,js,mysql,cpp,java,html,css,git,github,linux,vscode,figma,arduino,dotnet&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
+</p>
+
 
 ---
 
