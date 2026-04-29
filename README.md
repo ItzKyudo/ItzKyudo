@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Hi , I’m Louise Klyde Caloyloy</h3>
-<p align="center">💻 Software Developer - Full Stack | 🎓 3rd Year Computer Engineering Student</p>
+<p align="center">💻 I am a Full-Stack Software Engineer and Multi-Platform Developer with three years of hands-on experience in crafting solutions for desktop, mobile, and web environments. As a co-founder of a software service company, I specialize in developing robust software applications and IoT projects that meet diverse client needs. My expertise lies in seamlessly integrating technology to improve efficiency and performance. I take pride in my ability to understand client requirements and deliver reliable, user-friendly products that drive results. Whether you need a custom application or an innovative IoT solution, I bring a proactive approach and a commitment to excellence. Let's discuss how I can elevate your project and bring your ideas to life.</p>
 
 ---
 
