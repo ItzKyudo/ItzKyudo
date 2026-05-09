@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" height="50"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
 </p>
 
 
