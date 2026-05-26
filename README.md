@@ -28,36 +28,32 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="50"/>
 </p>
 
-
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **C++ Champion** in ICPEP Coding Challenge (1st Year College)  
+- 🥇 **C++ Champion** in ICPEP Programming Challenge (1st Year College)  
 - 🥈 **C++ 1st Runner-Up** - Regional ICPEP Coding Challenge  
-- 🥇 **C++ Champion** in ICPEP Coding Challenge (2nd Year College)  
+- 🥇 **C++ Champion** in ICPEP Coding Challenge (2nd Year College)
+- 🥈 **C++ 1st Runner-Up - ICPEP Programming Challenge (3rd Year College)
+- 🥇 ** Software Engineering + MIS Embensyon Champion (3rd Year College)
 
 ---
 
-## 👨‍🎓 About Me
-
-3rd Year Computer Engineering Student at Western Mindanao State University Exploring Full Stack Development in Web, Desktop, and Mobile environments. Passionate about building embedded systems and robotics with raspberrypi and arduino.
-
----
-
-## 💼 Full Stack Projects
+## 💼 Projects
 
 ### 🌐 Websites
 - [quicktoolz.ovh](https://quicktoolz.ovh)
 - [j12network.online](https://j12network.online)
-- scheduling.ovh
-
-### 💻 Desktop Applications
-- 📊 [Prime Project Planner](https://itzkyudo.itch.io/prime-project)
-- Truck Barrowing System
+- [nanoprograms.ovh](https://nanoprograms.ovh)
+- [eosph.com](https://eosph.com)
+- Jee-ps
 
 ### 📱 Mobile Applications
-- [Zynema Movies/TV Shows stream](https://itzkyudo.itch.io/zynema) 
+- [Zynema Movies/TV Shows stream](https://itzkyudo.itch.io/zynema)
+- Kwenturo
+- Aquanex
+- ShroomTech
 
 ---
 
