@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
   <img src="https://skillicons.dev/icons?i=html" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
