@@ -37,6 +37,7 @@
 - 🥇 **C++ Champion** in ICPEP Coding Challenge (2nd Year College)
 - 🥈 **C++ 1st Runner-Up - ICPEP Programming Challenge (3rd Year College)
 - 🥇 ** Software Engineering + MIS Embensyon Champion (3rd Year College)
+- 🥈 ** ICPEP OLYMPIADS WEBDESIGN 2026 1st Runner Up (3rd Year College)
 
 ---
 
