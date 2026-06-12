@@ -32,12 +32,14 @@
 
 ## 🏆 Achievements
 
-- 🥇 **C++ Champion** in ICPEP Programming Challenge (1st Year College)  
-- 🥈 **C++ 1st Runner-Up** - Regional ICPEP Coding Challenge  
-- 🥇 **C++ Champion** in ICPEP Coding Challenge (2nd Year College)
-- 🥈 **C++ 1st Runner-Up - ICPEP Programming Challenge (3rd Year College)
-- 🥇 ** Software Engineering + MIS Embensyon Champion (3rd Year College)
-- 🥈 ** ICPEP OLYMPIADS WEBDESIGN 2026 1st Runner Up (3rd Year College)
+- 🥇 **C++ Champion** in ICPEP Programming Challenge 2024 
+- 🥈 **C++ 1st Runner-Up** - Regional ICPEP Coding Challenge 2024
+- 🥇 **C++ Champion** in ICPEP Coding Challenge 2025
+- 🥈 **C++ 1st Runner-Up** - ICPEP Programming Challenge 2025
+- 🥇 **Software Engineering** + MIS Embensyon Champion 2026
+- 🥈 **ICPEP OLYMPIADS WEBDESIGN** 1st Runner Up 2026
+
+- 🥈 **Game Jam Competition** - 1st Runner Up 2025
 
 ---
 
