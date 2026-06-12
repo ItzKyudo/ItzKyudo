@@ -34,12 +34,13 @@
 
 - 🥇 **C++ Champion** in ICPEP Programming Challenge 2024 
 - 🥈 **C++ 1st Runner-Up** - Regional ICPEP Coding Challenge 2024
+- 🥈 **AI Electronics** Embensyon 1st Runner Up 2025
 - 🥇 **C++ Champion** in ICPEP Coding Challenge 2025
-- 🥈 **C++ 1st Runner-Up** - ICPEP Programming Challenge 2025
-- 🥇 **Software Engineering** + MIS Embensyon Champion 2026
-- 🥈 **ICPEP OLYMPIADS WEBDESIGN** 1st Runner Up 2026
-
 - 🥈 **Game Jam Competition** - 1st Runner Up 2025
+- 🥈 **C++ 1st Runner-Up** - ICPEP Programming Challenge 2025
+- 🥇 **Software Engineering + MIS** Embensyon Champion 2026
+- 🥈 **Technopreneurship** Embensyon 1st Runner Up 2026
+- 🥈 **ICPEP OLYMPIADS WEBDESIGN** 1st Runner Up 2026
 
 ---
 
