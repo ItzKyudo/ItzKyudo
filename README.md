@@ -50,14 +50,20 @@
 - [quicktoolz.ovh](https://quicktoolz.ovh)
 - [j12network.online](https://j12network.online)
 - [nanoprograms.ovh](https://nanoprograms.ovh)
-- [eosph.com](https://eosph.com)
-- Jee-ps
+
 
 ### 📱 Mobile Applications
 - [Zynema Movies/TV Shows stream](https://itzkyudo.itch.io/zynema)
-- Kwenturo
-- Aquanex
-- ShroomTech
+
+### Commissioned
+- Truck Borrowing Management System
+- Prime Project: Project Planner
+- [eosph.com](https://eosph.com)
+- Jee-ps: Jeep location and passengers tracking 
+- Kwenturo: Choice-based Story Game for Mobile
+- Aquanex: Enhancing Sustainable Bangus Production through Smart Water Quality and Security System. Utilizing Raspberry Pi 5, AI models and React Native Application.
+- ShroomTech: Automated Smart Greenhouse System for Oyster Mushroom Growth and Quality Detection with YOLOv5
+  
 
 ---
 
