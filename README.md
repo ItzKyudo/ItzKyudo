@@ -78,8 +78,6 @@
 * 🎬 **[Zynema](https://itzkyudo.itch.io/zynema)**: Movies & TV Shows streaming mobile application.
 
 ### 🌐 Live Websites
-* 🌐 [quicktoolz.ovh](https://quicktoolz.ovh)
-* 🌐 [j12network.online](https://j12network.online)
 * 🌐 [nanoprograms.ovh](https://nanoprograms.ovh)
 
 ---
