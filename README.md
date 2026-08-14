@@ -14,7 +14,25 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,cpp,python,mysql,html,css,git,github,linux,vscode,figma,arduino,raspberrypi,electron" height="48" alt="tech-stack"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" alt="Raspberry Pi"/>
+  <img src="https://skillicons.dev/icons?i=electron" height="55" alt="Electron"/>
 </p>
 
 ---
