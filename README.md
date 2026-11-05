@@ -46,6 +46,7 @@
 
 ## 🏆 Achievements
 
+* 🥈 **1st Runner-Up** – ICPEP Coding Challenge (2026)
 * 🥇 **Champion** – Engbensyon Software Engineering + MIS (2026)
 * 🥇 **C++ Champion** – ICPEP Coding Challenge (2025)
 * 🥇 **C++ Champion** – ICPEP Programming Challenge (2024)
